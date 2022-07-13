@@ -12,3 +12,6 @@ and learn following libraries(included in the source):
 - rename `src/` to `minetest_transfer_tokens`
 - include this mod in the key `secure.http_mods` or `secure.trusted_mods` of `minetest.conf`
 - modify `config.lua`
+
+### Defined Chat Commands
+- `/token address :username`: look for `username`'s blockchain address
