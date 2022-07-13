@@ -10,5 +10,5 @@ and learn following libraries(included in the source):
 ### Install this mod
 - copy `src/` to `worldmods/` in your world directory
 - rename `src/` to `minetest_transfer_tokens`
-- list this mod into `secure.http_mods` or `secure.trusted_mods` in `minetest.conf`
+- include this mod in the key `secure.http_mods` or `secure.trusted_mods` of `minetest.conf`
 - modify `config.lua`
